@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/K3NT0Z4K1/DSA_LC/tree/master/2235-add-two-integers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/K3NT0Z4K1/DSA_LC/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
