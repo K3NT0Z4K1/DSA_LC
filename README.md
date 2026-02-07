@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/K3NT0Z4K1/DSA_LC/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/K3NT0Z4K1/DSA_LC/tree/master/2235-add-two-integers) |
 ## Database
 |  |
